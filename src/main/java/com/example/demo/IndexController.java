@@ -21,6 +21,6 @@ public class IndexController {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        return "info";
+        return "Welcome api world!";
     }
 }
